@@ -131,3 +131,4 @@ if __name__ == "__main__":
         save_instance_to_file(inst, path)
         print(f" - Generated: {filename} ({size} customers)")
     print("Done!")
+

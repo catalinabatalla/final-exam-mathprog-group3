@@ -1,8 +1,2 @@
-# Optimization dependencies
-# Recommended solver: pulp (with default CBC) or mip / gurobipy / cplex if available
-pulp>=2.8.0
-numpy>=1.24.0
-scipy>=1.10.0
-matplotlib>=3.7.0
-networkx>=3.0
-pandas>=2.0.0
+# Dependencies will be added as we need them
+numpy
